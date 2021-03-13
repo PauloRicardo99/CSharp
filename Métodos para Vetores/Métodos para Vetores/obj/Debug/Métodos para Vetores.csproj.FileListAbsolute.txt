@@ -1,0 +1,7 @@
+C:\Users\Usuário\Documents\Developer\Projetos\C#\Métodos para Vetores\Métodos para Vetores\bin\Debug\Métodos para Vetores.exe.config
+C:\Users\Usuário\Documents\Developer\Projetos\C#\Métodos para Vetores\Métodos para Vetores\bin\Debug\Métodos para Vetores.exe
+C:\Users\Usuário\Documents\Developer\Projetos\C#\Métodos para Vetores\Métodos para Vetores\bin\Debug\Métodos para Vetores.pdb
+C:\Users\Usuário\Documents\Developer\Projetos\C#\Métodos para Vetores\Métodos para Vetores\obj\Debug\Métodos para Vetores.csprojAssemblyReference.cache
+C:\Users\Usuário\Documents\Developer\Projetos\C#\Métodos para Vetores\Métodos para Vetores\obj\Debug\Métodos para Vetores.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Developer\Projetos\C#\Métodos para Vetores\Métodos para Vetores\obj\Debug\Métodos para Vetores.exe
+C:\Users\Usuário\Documents\Developer\Projetos\C#\Métodos para Vetores\Métodos para Vetores\obj\Debug\Métodos para Vetores.pdb
