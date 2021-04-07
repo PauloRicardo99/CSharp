@@ -139,7 +139,7 @@ namespace HelloWorld
             //Console.WriteLine("Produto.......:{0,15}", produto);    //{indice,espaco}
             //Console.WriteLine("Val.Compra....:{0,15:c}", valorCompra);    //{indice,espaco:formatoMonetario}
             //Console.WriteLine("Lucro.........:{0,15:p}", lucro);    //{indice,espaco:formatoPorcentagem}
-            //Console.WriteLine("Val.Venda.....:{0,15:p}", valorVenda);    //{indice,espaco:formatoMonetario}
+            //Console.WriteLine("Val.Venda.....:{0,15:c}", valorVenda);    //{indice,espaco:formatoMonetario}
 
 
             // BITWISE >>(METADE) <<(DOBRA)
